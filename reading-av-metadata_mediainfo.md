@@ -1,5 +1,5 @@
 
-# Reading key A/V metadata
+# Reading key A/V metadata with MediaInfo
 
 The following information was originally used in the _NDSR 2016 Immersion Week - Automating Procedures for Digital Asset Management_ presentation found in the [America Archive of Public Broadcasting Immersion Week GitHub repository](https://github.com/NationalDigitalStewardshipResidency/aapbndsr_iw2016/tree/master/KathrynGronsbell). 
 
