@@ -1,10 +1,10 @@
 # Command Line Basics
 
-The following information is related to the _NDSR 2016 Immersion Week - Automating Procedures for Digital Asset Management_ presentation also found in this GitHub repository. 
+The following information was originally used in the _NDSR 2016 Immersion Week - Automating Procedures for Digital Asset Management_ presentation found in the [America Archive of Public Broadcasting Immersion Week GitHub repository](https://github.com/NationalDigitalStewardshipResidency/aapbndsr_iw2016/tree/master/KathrynGronsbell). 
 
 ## Overview
 
-Using the command line interface (CLI), you can issue commands to a computer via lines of text. The CLI passes commands to the computer's operating system, which runs the requested tasks. There are many CLI tutorials freely available (some recommended ones are listed at the bottom of this page), so a great way to get started is to dive in with some sample files on your Desktop or in a virtual machine. As mentioned in the _NDSR 2016 Immersion Week_ slides, you want to have some freedom to play around with the CLI without harming your machine or machines on attached networks.  
+Using the command line interface (CLI), you can issue commands to a computer via lines of text. The CLI passes commands to the computer's operating system, which runs the requested tasks. There are many CLI tutorials freely available (some recommended ones are listed at the bottom of this page), so a great way to get started is to dive in with some sample files on your Desktop or in a virtual machine. You want to have some freedom to play around with the CLI without harming your machine or machines on attached networks.  
 
 ### Quick Reference: Commands and tips
 
@@ -207,6 +207,3 @@ You can move through your own file system via the CLI with a few simple commands
 Interface (CLI) to Work with Files and Directories (MAC OS)](https://www.avpreserve.com/wp-content/uploads/2015/09/CLI_MacOS_Tutorial.pdf) by Bertram Lyons, AVPreserve (2015)
 5. [the sourcecaster](https://datapraxis.github.io/sourcecaster/) - CLI command generating resource that "helps you use the command line to work through common challenges that come up when working with digital primary sources", created by [Thomas Padilla](https://github.com/thomasgpadilla) and [James Baker](https://github.com/drjwbaker)
 6. [Script Ahoy: Community Resource for Archivists and Librarians Scripting](http://dd388.github.io/crals/) created by Jarrett Drake and Dianne Dietrich.
-
-
-
