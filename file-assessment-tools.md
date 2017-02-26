@@ -6,16 +6,21 @@ Metadata assessment, audit, conformance, and creation tools are utilities create
 
 Common tools used in archives, museums, libraries, and other data management spaces are listed below because they do an okay to great job of handling audiovisual files and are updated or maintained on a semi-regular basis. The tools are presented in alphabetical order.
 
-Review the [*Community Owned digital Preservation Tool Registry* (COPTR)](http://coptr.digipres.org/Main_Page) which features ~500 tools that can be used in data management.
 
 ## TOOL LIST
 
-Exiftool 
-Mediainfo
-Mediaconch
-QCTools
-ffMPEG / ffProbe
-Metadata modules in non-linear editors or Adobe products
-Utilities/about evaluate environment,storage environment, listing, e.g. drive partitions
+Review the [*Community Owned digital Preservation Tool Registry* (COPTR)](http://coptr.digipres.org/Main_Page) which features ~500 tools that can be used in data management.
+
+|Tool|Notes|Link|
+| ---- |------|----|
+|[ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/)||
+|[FFmpeg](https://ffmpeg.org/)||
+|[FFprobe](https://ffmpeg.org/ffprobe.html)||
+|[MediaInfo](https://mediaarea.net/en/MediaInfo)||
+|[MediaConch](mediaconch.net)||
+|QCTools||
+|Metadata profiling modules in digital repository software|e.g. Archivematica's _Analysis_ pane, which the Bentley Historical Archive at the Univ. of Michigan describes in their [Digital Processing workflow documentation](https://sites.google.com/a/umich.edu/bhl-archival-curation/processing-archival-collections/08-digital-processing/step-3-appraisal)|
+|Metadata modules in non-linear editors or photo editing software|e.g. Adobe Bridge's _Metadata_ pane or Final Cut Pro & Adobe Premier's metadata tabs.|
+|Utilities/about evaluate environment,storage environment, listing, e.g. drive partitions|||
 
 
