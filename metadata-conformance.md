@@ -48,6 +48,20 @@ On the [MediaConch website](https://mediaarea.net/MediaConch/) you can find dire
   - Click the 👁️ under Policy to see pass/fail info per rule
   - Apply a different public pulicy to all results (drop down menu directly below **Results** header)
 
+9. Now try running the sample or public policies on other sample files. Review the results across files with different formats, codecs, number of channels, etc. 
+
+### Create a new policy
+
+1. Pick a sample A/V file (not aquarium.mov). There are 2 simple ways to create a new policy. The first is to simply and manually add rules in the **Policy editor**. Or you can upload an A/V file, have MediaConch analyze it and auto-populate rules as a new policy. We are going to start with the manual approach.
+
+2. Run MediaInfo on your sample A/V file and keep Terminal open to scroll through the output:
+
+  `mediainfo your-sample-file.mov`
+
+3. Create a new policy in MediaConchOnline's **Policy editor** based on **FIVE** metadata fields in the MediaInfo output for your sample A/V file. (Hint: review [**Create a policy Documentation**](https://mediaarea.net/MediaConch/documentation/HowToUse.html) for steps on how to add rules to your policy)
+
+4. Use MediaConchOnline to test your policy against the sample A/V file with the Checker. Did it pass?
+
 ## Next: Use the CLI!
 
 - Download/install the [command-line version of MediaConch](https://mediaarea.net/MediaConch/installation.html). 
