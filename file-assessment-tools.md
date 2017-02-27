@@ -9,7 +9,7 @@ Common tools used in archives, museums, libraries, and other data management spa
 
 ## TOOL LIST
 
-Review the [*Community Owned digital Preservation Tool Registry* (COPTR)](http://coptr.digipres.org/Main_Page) which features ~500 tools that can be used in data management.
+Review the [*Community Owned digital Preservation Tool Registry* (COPTR)](http://coptr.digipres.org/Main_Page) which features ~500 tools that can be used in data management (check out [Tools by function](http://coptr.digipres.org/Category:Function) to explore topics like file management and metadata extraction.)
 
 |Tool|Notes|
 | ---- |------|
