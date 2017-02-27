@@ -11,16 +11,14 @@ Common tools used in archives, museums, libraries, and other data management spa
 
 Review the [*Community Owned digital Preservation Tool Registry* (COPTR)](http://coptr.digipres.org/Main_Page) which features ~500 tools that can be used in data management.
 
-|Tool|Notes|Link|
-| ---- |------|----|
-|[ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/)||
-|[FFmpeg](https://ffmpeg.org/)||
-|[FFprobe](https://ffmpeg.org/ffprobe.html)||
-|[MediaInfo](https://mediaarea.net/en/MediaInfo)||
-|[MediaConch](mediaconch.net)||
-|QCTools||
+|Tool|Notes|
+| ---- |------|
+|[ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/)| A command-line application that can read, write, and edit embedded metadata in files, best for still images but with the ability to handle some A/V|
+|[FFmpeg](https://ffmpeg.org/)| A robust command-line application developed to manipulate A/V, with ability to write metadata in a key,value pair, transcode, and transform files. A handy quick-start guide to common FFmpeg commands is [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/).|
+|[FFprobe](https://ffmpeg.org/ffprobe.html)|ffprobe "gathers information from multimedia streams and prints it in human- and machine-readable fashion".|
+|[MediaInfo](https://mediaarea.net/en/MediaInfo)|MediaInfo is "a convenient unified display of the most relevant technical and tag data for video and audio files.". It also is one of the most common and referenced metadata tools for A/V material in use by those working in the archiving and preservation fields.|
+|[MediaConch](mediaconch.net)|GUI and CLI options that act as "implementation checker, policy checker, & reporter for Matroska, FFV1, & PCM," among other formats.|
+|[QCTools](https://github.com/bavc/qctools)|Software "that helps users analyze and understand their digitized video files through use of audiovisual analytics and filtering", and has viewing/reporting features that can be used for metadata assessment.|
 |Metadata profiling modules in digital repository software|e.g. Archivematica's _Analysis_ pane, which the Bentley Historical Archive at the Univ. of Michigan describes in their [Digital Processing workflow documentation](https://sites.google.com/a/umich.edu/bhl-archival-curation/processing-archival-collections/08-digital-processing/step-3-appraisal)|
 |Metadata modules in non-linear editors or photo editing software|e.g. Adobe Bridge's _Metadata_ pane or Final Cut Pro & Adobe Premier's metadata tabs.|
 |Utilities/about evaluate environment,storage environment, listing, e.g. drive partitions|||
-
-
