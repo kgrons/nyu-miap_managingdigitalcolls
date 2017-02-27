@@ -24,9 +24,29 @@ On the [MediaConch website](https://mediaarea.net/MediaConch/) you can find dire
 > * Validator: Equal
 > * Value: 29.970
 
-### Create a new policy
-
 ### Run a conformance check
+
+1. First, we are going to user the checker with an **existing policy**, which you can download [here](./mediaconch-samples/NYU-MIAP-samplepolicy.xml) (Click _Raw_ and _Save as..._). 
+
+2. Go to the [MediaConchOnline Policy Checker](https://mediaarea.net/MediaConchOnline/policyEditor). Note you are logged in as a Guest. (Later you can registe by creating a username / password, which will be emailed to you with instructions. Then log in.)
+
+3. Under _Import a Policy_, use the selection tool to choose the sample XML file (NYU-MIAP-samplepolicy.xml). The click the _Import Policy_ button.
+
+4. On the left side of the screen, you will see your policy listed with all its associated rules/assertions. Select **General/Format is QuickTime**. What do you see on the right side of the screen? (Hover over the `i` tool tips for more info about the fields that make up each rule). Check out a few more of the rules within this sample policy.
+
+5. OK now it's time for the **Checker**. At the top of the screen, click _Checker_ from the menu options. 
+
+6. Under _Check Files_, click on the _Check by file upload_ tab. 
+
+7. Configure the following:
+  - **Policy** - choose aquarium.mov (sample policy)
+  - **Display** - choose MediaConch HTML
+  - **Verbosity** - choose Default level
+  - **File (max 128M)** - choose your local copy of aquarium.mov
+
+8. Click _Check File_. Let's review our results in the **Results** section together.
+  - Click the 👁️ under Policy to see pass/fail info per rule
+  - Apply a different public pulicy to all results (drop down menu directly below **Results** header)
 
 ## Next: Use the CLI!
 
