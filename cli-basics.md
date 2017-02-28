@@ -79,21 +79,13 @@ You can move through your own file system via the CLI with a few simple commands
 4. Before we move forward, try jumping around to different directories and getting comfortable with navigating the file hierarchies on the CLI. Use these commands (and try `ls` and some of its options!).
 
 
-        cd ..
+ - `cd ..` moves to the parent of the current directory
+ 
+ - `cd ../..` moves up two levels to the grandparent directory
 
- - move to the parent of the current directory
+ - `cd /Applications/Utilities` moves to the Applications directory then the Utilities subdirectory
 
-        `cd ../..`
-
- - move up two levels to the grandparent directory
-    
-       `cd /Applications/Utilities`
-
- - move to the Applications directory then the Utilities subdirectory
-  
-        `cd -`
-
- - move to the previous working directory (also prints the path to the previous working directory)
+ - `cd -` moves to the previous working directory (also prints the path to the previous working directory)
 
 
 ### Opening, reading, writing, and moving files and directories
