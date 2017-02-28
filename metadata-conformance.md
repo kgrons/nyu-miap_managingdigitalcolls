@@ -28,7 +28,7 @@ On the [MediaConch website](https://mediaarea.net/MediaConch/) you can find dire
 
 1. First, we are going to use the checker with an **existing policy**, which you can download [here](./mediaconch-samples/NYU-MIAP-samplepolicy.xml) (Click _Raw_ and _Save as..._). 
 
-2. Go to the [MediaConchOnline Policy Checker](https://mediaarea.net/MediaConchOnline/policyEditor). Note you are logged in as a Guest. (Later you can registe by creating a username / password, which will be emailed to you with instructions. Then log in.)
+2. Go to the [MediaConchOnline Policy Checker](https://mediaarea.net/MediaConchOnline/policyEditor). Note you are logged in as a Guest. (Later you can register by creating a username / password.)
 
 3. Under _Import a Policy_, use the selection tool to choose the sample XML file (NYU-MIAP-samplepolicy.xml). The click the _Import Policy_ button.
 
@@ -46,7 +46,7 @@ On the [MediaConch website](https://mediaarea.net/MediaConch/) you can find dire
 
 8. Click _Check File_. Let's review our results in the **Results** section together.
   - Click the 👁️ under Policy to see pass/fail info per rule
-  - Apply a different public pulicy to all results (drop down menu directly below **Results** header)
+  - Apply a different public policy to all results (drop down menu directly below **Results** header)
 
 9. Now try running the sample or public policies on other sample files. Review the results across files with different formats, codecs, number of channels, etc. 
 
