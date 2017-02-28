@@ -153,7 +153,7 @@ You can move through your own file system via the CLI with a few simple commands
 
 10. You've used a text editor (TextEdit, Xcode, SublimeText, etc.) - and the CLI has a built in text editor. It can be a bit tricky to learn, but can be easily used for simple editing or just viewing existing text. Use the man page for vim or check it out online. Here's how to find it:
 
-        vim file1.txt
+        vim hello.txt
 
  FYI: to escape vim, click the `esc` key. Then `control` + `z`. 
 
