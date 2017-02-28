@@ -26,7 +26,7 @@ On the [MediaConch website](https://mediaarea.net/MediaConch/) you can find dire
 
 ### Run a conformance check
 
-1. First, we are going to user the checker with an **existing policy**, which you can download [here](./mediaconch-samples/NYU-MIAP-samplepolicy.xml) (Click _Raw_ and _Save as..._). 
+1. First, we are going to use the checker with an **existing policy**, which you can download [here](./mediaconch-samples/NYU-MIAP-samplepolicy.xml) (Click _Raw_ and _Save as..._). 
 
 2. Go to the [MediaConchOnline Policy Checker](https://mediaarea.net/MediaConchOnline/policyEditor). Note you are logged in as a Guest. (Later you can registe by creating a username / password, which will be emailed to you with instructions. Then log in.)
 
